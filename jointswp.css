@@ -1,0 +1,13 @@
+body {
+  background-color: pink !important;
+}
+
+#top-bar-menu,
+.top-bar,
+.top-bar ul {
+  background-color: transparent;
+}
+
+#root {
+  background-color: #eee;
+}
